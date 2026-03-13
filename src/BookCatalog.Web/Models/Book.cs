@@ -2,6 +2,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace BookCatalog.Web.Models;
 
+//Model of book
 public class Book
 {
     public int Id { get; set; }
